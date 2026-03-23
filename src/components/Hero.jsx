@@ -130,10 +130,10 @@ const Hero = () => {
             <h1 className="special-font hero-heading text-[#00AFD8]">
               MALL PELAYANAN
             </h1>
-            <p className="text-md max-w-65 font-robert-regular text-blue-100">
+            <p className="text-sm max-w-65 font-robert-regular text-blue-100">
               Portal Layanan Perlindungan Perempuan dan Anak.
             </p>
-            <p className="mb-5 max-w-65 font-robert-regular text-blue-100">
+            <p className="mb-5 text-sm max-w-65 font-robert-regular text-blue-100">
               Tempat Aman untuk Perempuan dan Anak
             </p>
 
