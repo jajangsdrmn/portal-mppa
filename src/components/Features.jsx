@@ -175,7 +175,7 @@ const Features = () => (
         <BentoTilt className="bento-tilt_2">
           <div className="flex size-full flex-col justify-between bg-[#d9f447] p-5">
             <h1 className="bento-title special-font max-w-64 text-black">
-              K<b>o</b>lab<b>o</b>rasi layanan akan segera hadir
+              Layanan lainnya akan segera hadir
             </h1>
 
             <TiLocationArrow className="m-5 scale-[5] self-end" />
